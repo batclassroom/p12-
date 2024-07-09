@@ -3957,3 +3957,11 @@ input, select, textarea {
 			margin-left: 10px;
 			text-decoration: none;
 		}
+
+	.landing {
+		margin-left: 20px;
+	}
+	.imgCompetence {
+		display: flex;
+		gap: 30px;
+	}
